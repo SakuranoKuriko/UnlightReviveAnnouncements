@@ -1,0 +1,1 @@
+存放 Unlight: Revive 公告翻译的地方。
