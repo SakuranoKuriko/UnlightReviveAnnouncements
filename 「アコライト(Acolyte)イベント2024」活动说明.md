@@ -1,7 +1,5 @@
 # 「アコライトイベント2024」（Acolyte 2024）活动说明
 
-[toc]
-
 ![AcolyteEvent2024_Title](imgs/AcolyteEvent2024_Title.jpg)
 
 ## 活动时间
