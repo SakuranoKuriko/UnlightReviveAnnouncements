@@ -48,32 +48,6 @@
 
 
 
-## 可以直连的游戏服务器域名
-
-```
-xzi87byvbp6l-t8orfo5.blog
-he4bliurehiufdfbl-6ae5rrg.site
-trexmtgrzrm-jhrguyhqcuquyflzzbv6.site
-j678bhjk8o-ydusvw4at.xyz
-tn7gjezlhzm4acs9bz8s.com
-```
-
-## 必须使用日本IP访问的域名
-
-```
-dmm.com
-dmm.co.jp
-```
-
-### 使用浏览器插件 Proxy SwitchyOmega 配置自动代理
-
-安装插件： [Chrome](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif) | [Firefox](https://addons.mozilla.org/firefox/addon/switchyomega/)
-
-TODO
-
-
-
-
 ## 常见问题解决方法
 
 - 进游戏白屏
@@ -103,6 +77,91 @@ TODO
 Win7玩不了，因为兼容Win7的Chrome和火狐都玩不了，不过可以在虚拟机里装Win10，里面装火狐玩。
 
 另：如果用ACGPower，则火狐与Proxy SwitchyOmega（自动切换代理插件）只能二选一，因为此插件无法在火狐上正确应用PAC代理，而ACGP必须使用PAC代理
+
+
+
+## 可以直连的游戏服务器域名
+
+```
+xzi87byvbp6l-t8orfo5.blog
+he4bliurehiufdfbl-6ae5rrg.site
+trexmtgrzrm-jhrguyhqcuquyflzzbv6.site
+j678bhjk8o-ydusvw4at.xyz
+tn7gjezlhzm4acs9bz8s.com
+```
+
+## 必须使用日本IP访问的域名
+
+```
+dmm.com
+dmm.co.jp
+```
+
+### 使用浏览器插件 Proxy SwitchyOmega 配置自动代理
+
+<details>
+
+<summary>展开</summary>
+
+**首先需要确认使用的加速器/梯子有可直接使用的本地客户端（可查看端口号）或远端IP+端口/域名+端口**
+
+安装插件： [Chrome](https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif) | [Firefox](https://addons.mozilla.org/firefox/addon/switchyomega/)
+
+![自动代理设置1](imgs/ProxySwitchyOmega_Config1.png)
+
+1. 按加速器/梯子的配置选择协议
+
+2. 如果是本地客户端，则填入```127.0.0.1```，否则填入对应的远端IP或域名
+
+3. 填入代理端口
+
+![自动代理设置2](imgs/ProxySwitchyOmega_Config2.png)
+
+4. 如图，红框部分全部按图中配置
+
+   [条件设置]分别为 ```*.dmm.com```、```*.dmm.co.jp```
+
+   - 如果后续进游戏一直白屏，可以在这里多添加一个 ```*.cdn.jsdelivr.net``` 试试（相同设置）
+
+5. 应用选项
+
+![自动代理设置3](imgs/ProxySwitchyOmega_Config3.png)
+
+6. 找到浏览器中这个扩展程序的按钮并点击打开菜单
+
+![自动代理设置4](imgs/ProxySwitchyOmega_Config4.png)
+
+7. 点击auto switch切换至代理模式，完成。
+
+### 稍微高级一点的配置
+
+可以配置规则列表，让一些常见的需要加速器/梯子的网站也能够自动代理
+
+![自动代理设置5](imgs/ProxySwitchyOmega_Config5.png)
+
+8. 在此处点击proxy切换至proxy模式（所有流量都走加速器/梯子）
+
+![自动代理设置6](imgs/ProxySwitchyOmega_Config6.png)
+
+9. 添加规则列表
+
+![自动代理设置7](imgs/ProxySwitchyOmega_Config7.png)
+
+10. 勾选启用规则列表
+
+11. 选择列表匹配项使用proxy（代理）模式
+
+12. 如图
+
+13. ```https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt```
+
+14. 立即更新列表
+
+15. 确认显示绿背景色的“规则列表最后更新时间：xxx...”即成功
+
+16. 切换回auto switch模式（图略），完成。
+
+</details>
 
 
 
