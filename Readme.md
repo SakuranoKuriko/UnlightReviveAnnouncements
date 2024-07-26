@@ -8,8 +8,6 @@
 
 [Acolyte 2024 活动公告](AcolyteEvent2024.md)
 
-[アレクサンドル（亚历山大城）匹配机制说明](AlexanderMatch.md)
-
 
 
 ## アレクサンドル（亚历山大城） 新匹配机制说明
