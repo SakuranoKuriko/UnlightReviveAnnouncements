@@ -110,9 +110,9 @@ Win7玩不了，因为兼容Win7的Chrome和火狐都玩不了，不过可以在
 
 ## 旧时代（旧版）的攻略
 
-- [Raid（涡）BOSS攻略](guide.old/raid.html)
+- [Raid（涡）BOSS攻略](//ul.kuriko.top/raid)
 
-- [强化武器攻略](guide.old/weaponex.html)
+- [强化武器攻略](//ul.kuriko.top/weaponex)
 
 
 
