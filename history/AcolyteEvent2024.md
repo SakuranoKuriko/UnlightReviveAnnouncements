@@ -1,6 +1,6 @@
 # 「アコライトイベント2024」（Acolyte 2024）活动说明
 
-![AcolyteEvent2024_Title](imgs/AcolyteEvent2024_Title.jpg)
+![AcolyteEvent2024_Title](../imgs/AcolyteEvent2024_Title.jpg)
 
 ## 活动时间
 
@@ -11,13 +11,13 @@
 ## 规则
 
 - 完成地图任务或对战可以获得「アコライトコイン」（Acolyte Coin，以下简称AC）
-  
+
   - 地图任务：（搜索AP+开始任务AP）x1AC
-  
+
   - 迪城对战：消耗APx1AC
-  
+
     *好友对战消耗AP不变，但能获得与陌生人对战相同数量的AC*
-  
+
   - 亚历山大城对战：胜利时10AC
 
 - 简单地说
@@ -100,7 +100,7 @@
 
 ## 暗房
 
-- 银抽Pick Up服饰：浴衣（梅），浴衣（蝶），浴衣（朝颜） 
+- 银抽Pick Up服饰：浴衣（梅），浴衣（蝶），浴衣（朝颜）
 
   *朝颜：牵牛花*
 
