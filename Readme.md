@@ -2,13 +2,23 @@
 
 ## [「Unlight: Revive」对比旧版的主要变更点](MajorChanges.md)
 
+## 资料与攻略
+
+- [UNLIGHT：Revive 攻略Wiki（日语）](https://unlightrevive.wikiru.jp/)
+
 ## 最新公告
 
-[2024/09/06 被推迟的定期维护公告](history/20240906.md)
-
-[2024/09/12 定期维护预告](20240912.md)
+[2024/09/12 定期维护公告](20240912.md)
 
 [「第2回きのこ狩りイベント」（第二次采蘑菇）活动说明](第2回きのこ狩りイベント.md)
+
+## [2024秋 DMM GAMES FESTIVAL](https://games.dmm.com/cp/festival/autumn/)
+
+时间：北京时间2024/09/12 11:00 ~ 2024/10/15 16:59
+
+点击页面中的「キャンペーンに参加する」（参加活动），并在游戏中完成了新手教程，就能在活动结束后获得奖励：票x10，β型涡探测器3 x3，浴衣（梅2） 。（预计10月下旬~12月上旬期间发放）
+
+另外，每天进入此页面、每天登录游戏都能获得转盘币，可以在此页面中转盘抽奖，1等奖1万dmm点数，2等奖250，3等奖10，4等奖转盘币x2
 
 ## [历史公告](history/)
 
@@ -169,10 +179,13 @@ dmm.co.jp
 
 
 
-## 旧时代（旧版）的攻略
+## 旧时代（旧版）的资料与攻略
+
+- [旧wiki（日语）](https://wikiwiki.jp/unlight_2ch/)
+
+- [旧wiki（中文）](https://w.atwiki.jp/unlight-fbtw/)
 
 - <a href="//ul.kuriko.top/raid" target="_blank">Raid（涡）BOSS攻略</a>
 
 - <a href="//ul.kuriko.top/weaponex" target="_blank">强化武器攻略</a>
-
 
