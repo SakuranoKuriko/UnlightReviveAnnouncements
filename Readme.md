@@ -8,7 +8,7 @@
 
 ## 最新公告
 
-[2024/10/10 定期维护公告](20241010.md)
+[2024/10/17 定期维护公告](20241017.md)
 
 ## [2024秋 DMM GAMES FESTIVAL](https://games.dmm.com/cp/festival/autumn/)
 
