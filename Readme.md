@@ -8,7 +8,7 @@
 
 ## 最新公告
 
-[2025/01/09 定期维护公告](20250109.md)
+[2025/01/16 定期维护公告](20250116.md)
 
 ### [2024冬 DMM GAMES FESTIVAL](https://games.dmm.com/cp/festival/winter/) 活动说明
 
