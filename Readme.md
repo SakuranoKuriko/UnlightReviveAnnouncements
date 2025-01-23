@@ -8,9 +8,7 @@
 
 ## 最新公告
 
-[2025/01/16 定期维护公告](20250116.md)
-
-### [2024冬 DMM GAMES FESTIVAL](https://games.dmm.com/cp/festival/winter/) 活动说明
+[2025/01/23 定期维护公告](20250123.md)
 
 每天签到、首次游玩列表中的游戏（包括Unlight: Revive）、完成活动页面上的任务等都能获得转盘币
 
