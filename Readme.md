@@ -12,6 +12,8 @@
 
 ## 2025春 DMM GAMES FESTIVAL 活动说明
 
+[活动页](https://games.dmm.com/cp/festival/spring/)
+
 每天游玩一次列表中的任意游戏（包括Unlight: Revive）、每天在活动页面签到都可获得转盘币
 
 本次宣称【每5次就能中1次dmm点数的几率】（但不保证每5次都会中1次）
