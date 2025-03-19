@@ -1,6 +1,6 @@
 # UNLIGHT Fes. 2025 一周年活动说明
 
-![封面](imgs/UNLIGHT_Revive_一周年.png)
+![封面](imgs/UNLIGHT_Revive_一周年.jpg)
 
 ## 活动时间
 
