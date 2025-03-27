@@ -1,6 +1,6 @@
 # UNLIGHT Fes. 2025 一周年活动说明
 
-![封面](imgs/UNLIGHT_Revive_一周年.jpg)
+![封面](../imgs/UNLIGHT_Revive_一周年.jpg)
 
 ## 活动时间
 
@@ -94,15 +94,15 @@
 | *小计*                                                       |      |          | *180*  |
 |                                                              |      |          |        |
 | **服饰**                                                     |      |          |        |
-| アニバーサリードレス(赤) <a href="imgs/costumes/アニバーサリードレス（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日礼服（红）* | 20   | 1        | 20     |
-| アニバーサリーシューズ(赤) <a href="imgs/costumes/アニバーサリーシューズ（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日鞋子（红）* | 20   | 1        | 20     |
-| アニバーサリーリボン(赤) <a href="imgs/costumes/アニバーサリーリボン（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日缎带（红）* | 20   | 1        | 20     |
-| アニバーサリードレス(灰) <a href="imgs/costumes/アニバーサリードレス（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日礼服（灰）* | 20   | 1        | 20     |
-| アニバーサリーシューズ(灰) <a href="imgs/costumes/アニバーサリーシューズ（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日鞋子（灰）* | 20   | 1        | 20     |
-| アニバーサリーリボン(灰) <a href="imgs/costumes/アニバーサリーリボン（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日缎带（灰）* | 20   | 1        | 20     |
-| アニバーサリードレス(深緑) <a href="imgs/costumes/アニバーサリードレス（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日礼服（深绿）* | 20   | 1        | 20     |
-| アニバーサリーシューズ(深緑) <a href="imgs/costumes/アニバーサリーシューズ（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日鞋子（深绿）* | 20   | 1        | 20     |
-| アニバーサリーリボン(深緑) <a href="imgs/costumes/アニバーサリーリボン（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日缎带（深绿）* | 20   | 1        | 20     |
+| アニバーサリードレス(赤) <a href="../imgs/costumes/アニバーサリードレス（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日礼服（红）* | 20   | 1        | 20     |
+| アニバーサリーシューズ(赤) <a href="../imgs/costumes/アニバーサリーシューズ（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日鞋子（红）* | 20   | 1        | 20     |
+| アニバーサリーリボン(赤) <a href="../imgs/costumes/アニバーサリーリボン（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日缎带（红）* | 20   | 1        | 20     |
+| アニバーサリードレス(灰) <a href="../imgs/costumes/アニバーサリードレス（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日礼服（灰）* | 20   | 1        | 20     |
+| アニバーサリーシューズ(灰) <a href="../imgs/costumes/アニバーサリーシューズ（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日鞋子（灰）* | 20   | 1        | 20     |
+| アニバーサリーリボン(灰) <a href="../imgs/costumes/アニバーサリーリボン（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日缎带（灰）* | 20   | 1        | 20     |
+| アニバーサリードレス(深緑) <a href="../imgs/costumes/アニバーサリードレス（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日礼服（深绿）* | 20   | 1        | 20     |
+| アニバーサリーシューズ(深緑) <a href="../imgs/costumes/アニバーサリーシューズ（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日鞋子（深绿）* | 20   | 1        | 20     |
+| アニバーサリーリボン(深緑) <a href="../imgs/costumes/アニバーサリーリボン（赤・灰・深緑）_Preview.jpg"   target="_blank">[预览]</a><br>*纪念日缎带（深绿）* | 20   | 1        | 20     |
 | *小计*                                                       |      |          | *180*  |
 |                                                              |      |          |        |
 | **其他**                                                     |      |          |        |
