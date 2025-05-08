@@ -46,7 +46,7 @@
 
   从地图任务界面左下角的「MAP」按钮选择进入探索
 
-  [详细说明](#关于NamelessLand)
+  [详细说明](魔女の呪いイベント%20Revive.md#关于NamelessLand)
 
 ## 关于NamelessLand
 
