@@ -167,6 +167,8 @@
 
 ## 商店限时销售
 
+至05/29定期维护前
+
 1) 魔法使いのサロペット(黒) <a href="imgs/costumes/魔法使いのサロペット(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
 
 2) 魔法使いのサロペット(赤) <a href="imgs/costumes/魔法使いのサロペット(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
