@@ -138,10 +138,10 @@
 | *小计*                                                       |      |          | *70*   |
 |                                                              |      |          |        |
 | **服饰**                                                     |      |          |        |
-| 呪いの記憶   <a href="imgs/costumes/呪いの記憶_Preview.png"   target="_blank">[预览]</a><br>*诅咒的记忆* | 30   | 1        | 30     |
-| チャイナゴシック(青) <a href="imgs/costumes/チャイナゴシック(青)_Preview.jpg"   target="_blank">[预览]</a><br>*哥特旗袍（蓝）* | 30   | 1        | 30     |
-| チャイナゴシック(黄) <a  href="imgs/costumes/チャイナゴシック(黄)_Preview.jpg"   target="_blank">[预览]</a><br>*哥特旗袍（黄）* | 30   | 1        | 30     |
-| チャイナゴシック(黒) <a href="imgs/costumes/チャイナゴシック(黒)_Preview.jpg"   target="_blank">[预览]</a><br>*哥特旗袍（黑）* | 30   | 1        | 30     |
+| 呪いの記憶   <a href="../imgs/costumes/呪いの記憶_Preview.png"   target="_blank">[预览]</a><br>*诅咒的记忆* | 30   | 1        | 30     |
+| チャイナゴシック(青) <a href="../imgs/costumes/チャイナゴシック(青)_Preview.jpg"   target="_blank">[预览]</a><br>*哥特旗袍（蓝）* | 30   | 1        | 30     |
+| チャイナゴシック(黄) <a  href="../imgs/costumes/チャイナゴシック(黄)_Preview.jpg"   target="_blank">[预览]</a><br>*哥特旗袍（黄）* | 30   | 1        | 30     |
+| チャイナゴシック(黒) <a href="../imgs/costumes/チャイナゴシック(黒)_Preview.jpg"   target="_blank">[预览]</a><br>*哥特旗袍（黑）* | 30   | 1        | 30     |
 | *小计*                                                       |      |          | *120*  |
 |                                                              |      |          |        |
 | **其他**                                                     |      |          |        |
@@ -169,26 +169,26 @@
 
 至05/29定期维护前
 
-1) 魔法使いのサロペット(黒) <a href="imgs/costumes/魔法使いのサロペット(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
+1) 魔法使いのサロペット(黒) <a href="../imgs/costumes/魔法使いのサロペット(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
 
-2) 魔法使いのサロペット(赤) <a href="imgs/costumes/魔法使いのサロペット(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
+2) 魔法使いのサロペット(赤) <a href="../imgs/costumes/魔法使いのサロペット(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
 
-3) 魔法使いの外套(黒) <a href="imgs/costumes/魔法使いの外套(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
+3) 魔法使いの外套(黒) <a href="../imgs/costumes/魔法使いの外套(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
 
-4) 魔法使いの外套(赤) <a href="imgs/costumes/魔法使いの外套(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
+4) 魔法使いの外套(赤) <a href="../imgs/costumes/魔法使いの外套(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
 
-5) 魔法使いのクラコー(黒) <a href="imgs/costumes/魔法使いのクラコー(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
+5) 魔法使いのクラコー(黒) <a href="../imgs/costumes/魔法使いのクラコー(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
 
-6) 魔法使いのクラコー(赤) <a href="imgs/costumes/魔法使いのクラコー(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
+6) 魔法使いのクラコー(赤) <a href="../imgs/costumes/魔法使いのクラコー(黒・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
 
-7) 箒(茶) <a href="imgs/costumes/箒(茶・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
+7) 箒(茶) <a href="../imgs/costumes/箒(茶・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
 
-8) 箒(赤) <a href="imgs/costumes/箒(茶・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
+8) 箒(赤) <a href="../imgs/costumes/箒(茶・赤)_Preview.jpg" target="_blank">[预览]</a>  350pt
 
 9) 魔女の呪いバンドル 2600pt
 
    魔女的诅咒组合包
 
-   内容：1~8各1份+服饰「魔法阵」 <a href="imgs/costumes/魔法陣_Preview.png" target="_blank">[预览]</a>
+   内容：1~8各1份+服饰「魔法阵」 <a href="../imgs/costumes/魔法陣_Preview.png" target="_blank">[预览]</a>
 
    单独购买组合包所包含的单品将会无法再购买组合包
