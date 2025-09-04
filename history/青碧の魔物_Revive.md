@@ -106,12 +106,12 @@
 | *小计*                                                       |      |      | *380*  |
 |                                                              |      |      |        |
 | **服饰**                                                     |      |      |        |
-| レインコート(赤) <a  href="imgs/costumes/レインコート（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*雨衣（红）* | 30   | 1    | 30     |
-| レインコート(青) <a  href="imgs/costumes/レインコート（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*雨衣（蓝）* | 30   | 1    | 30     |
-| レインコート(緑) <a  href="imgs/costumes/レインコート（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*雨衣（绿）* | 30   | 1    | 30     |
-| 長靴(赤)   <a href="imgs/costumes/長靴（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*长靴（红）* | 20   | 1    | 20     |
-| 長靴(青)   <a href="imgs/costumes/長靴（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*长靴（蓝）* | 20   | 1    | 20     |
-| 長靴(緑) <a  href="imgs/costumes/長靴（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*长靴（绿）* | 20   | 1    | 20     |
+| レインコート(赤) <a  href="../imgs/costumes/レインコート（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*雨衣（红）* | 30   | 1    | 30     |
+| レインコート(青) <a  href="../imgs/costumes/レインコート（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*雨衣（蓝）* | 30   | 1    | 30     |
+| レインコート(緑) <a  href="../imgs/costumes/レインコート（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*雨衣（绿）* | 30   | 1    | 30     |
+| 長靴(赤)   <a href="../imgs/costumes/長靴（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*长靴（红）* | 20   | 1    | 20     |
+| 長靴(青)   <a href="../imgs/costumes/長靴（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*长靴（蓝）* | 20   | 1    | 20     |
+| 長靴(緑) <a  href="../imgs/costumes/長靴（赤・青・緑）_Preview.jpg"   target="_blank">[预览]</a><br>*长靴（绿）* | 20   | 1    | 20     |
 | *小计*                                                       |      |      | *150*  |
 |                                                              |      |      |        |
 | **其他**                                                     |      |      |        |
@@ -140,39 +140,39 @@
 
 至09/11定期维护前
 
-1. *[复刻]* ビーチサンダル(黒) <a href="imgs/costumes/ビーチサンダル(黒)_Preview.png" target="_blank">[预览]</a>  3000 gem
+1. *[复刻]* ビーチサンダル(黒) <a href="../imgs/costumes/ビーチサンダル(黒)_Preview.png" target="_blank">[预览]</a>  3000 gem
 
    *沙滩凉鞋（黑）*
 
-2. *[复刻]* サングラス(黒) <a href="imgs/costumes/サングラス(黒)_Preview.png" target="_blank">[预览]</a>  3000 gem
+2. *[复刻]* サングラス(黒) <a href="../imgs/costumes/サングラス(黒)_Preview.png" target="_blank">[预览]</a>  3000 gem
 
    *墨镜（黑）*
 
-3. *[复刻]* タンキニアンダー(黒) <a href="imgs/costumes/タンキニアンダー(黒)_Preview.png" target="_blank">[预览]</a>  3000 gem
+3. *[复刻]* タンキニアンダー(黒) <a href="../imgs/costumes/タンキニアンダー(黒)_Preview.png" target="_blank">[预览]</a>  3000 gem
 
    *泳裤（黑）*
 
-4. *[复刻]* タンキニトップ(黒) <a href="imgs/costumes/タンキニトップ(黒)_Preview.png" target="_blank">[预览]</a>  3000 gem
+4. *[复刻]* タンキニトップ(黒) <a href="../imgs/costumes/タンキニトップ(黒)_Preview.png" target="_blank">[预览]</a>  3000 gem
 
    *泳衣（黑）*
 
-5. とっておきバルーンドレス(青) <a href="imgs/costumes/とっておきバルーンドレス（青・黄・緑）_Preview.jpg" target="_blank">[预览]</a>  350 pt
+5. とっておきバルーンドレス(青) <a href="../imgs/costumes/とっておきバルーンドレス（青・黄・緑）_Preview.jpg" target="_blank">[预览]</a>  350 pt
 
    *珍藏泡泡裙（蓝）*
 
-6. とっておきバルーンドレス(黄) <a href="imgs/costumes/とっておきバルーンドレス（青・黄・緑）_Preview.jpg" target="_blank">[预览]</a>  350 pt
+6. とっておきバルーンドレス(黄) <a href="../imgs/costumes/とっておきバルーンドレス（青・黄・緑）_Preview.jpg" target="_blank">[预览]</a>  350 pt
 
    *珍藏泡泡裙（黄）*
 
-7. とっておきバルーンドレス(緑) <a href="imgs/costumes/とっておきバルーンドレス（青・黄・緑）_Preview.jpg" target="_blank">[预览]</a>  350 pt
+7. とっておきバルーンドレス(緑) <a href="../imgs/costumes/とっておきバルーンドレス（青・黄・緑）_Preview.jpg" target="_blank">[预览]</a>  350 pt
 
    *珍藏泡泡裙（绿）*
 
-8. トロピカルジュース <a href="imgs/costumes/トロピカルジュース_Preview.png" target="_blank">[预览]</a>  350 pt
+8. トロピカルジュース <a href="../imgs/costumes/トロピカルジュース_Preview.png" target="_blank">[预览]</a>  350 pt
 
    *热带果汁*
 
-9. アクアリウム <a href="imgs/costumes/アクアリウム_Preview.png" target="_blank">[预览]</a>  350 pt
+9. アクアリウム <a href="../imgs/costumes/アクアリウム_Preview.png" target="_blank">[预览]</a>  350 pt
 
    *鱼缸*
 
@@ -180,7 +180,7 @@
 
     *避暑组合包*
 
-    包含(5)~(9)各一份+特典「ぽかーん(口)」<a href="imgs/costumes/ぽかーん(口)_Preview.png" target="_blank">[预览]</a>
+    包含(5)~(9)各一份+特典「ぽかーん(口)」<a href="../imgs/costumes/ぽかーん(口)_Preview.png" target="_blank">[预览]</a>
 
     单独购买组合包所包含的单品将会无法再购买组合包
 
