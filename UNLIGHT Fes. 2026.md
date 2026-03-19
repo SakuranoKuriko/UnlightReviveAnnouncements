@@ -1,5 +1,9 @@
 # UNLIGHT Fes. 2026 活动说明
 
+![](imgs/UNLIGHT_Revive_2周年.jpg)
+
+## 活动时间
+
 2026/03/12 定期维护后开始
 
 ## UNLIGHT Point
