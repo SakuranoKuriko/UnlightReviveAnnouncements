@@ -1,6 +1,6 @@
 # UNLIGHT Fes. 2026 活动说明
 
-![](imgs/UNLIGHT_Revive_2周年.jpg)
+![](../imgs/UNLIGHT_Revive_2周年.jpg)
 
 ## 活动时间
 
@@ -101,85 +101,85 @@
 
 ### 全新外观
 
-1. 追憶のロングヘアー(白)  350pt  [[预览]](imgs/costumes/追憶のロングヘアー(白・桃・緑)_Preview.jpg)
+1. 追憶のロングヘアー(白)  350pt  [[预览]](../imgs/costumes/追憶のロングヘアー(白・桃・緑)_Preview.jpg)
 
    *追忆的长发（白）*
 
-2. 追憶のロングヘアー(桃)  350pt  [[预览]](imgs/costumes/追憶のロングヘアー(白・桃・緑)_Preview.jpg)
+2. 追憶のロングヘアー(桃)  350pt  [[预览]](../imgs/costumes/追憶のロングヘアー(白・桃・緑)_Preview.jpg)
 
    *追忆的长发（粉）*
 
-3. 追憶のロングヘアー(緑)  350pt  [[预览]](imgs/costumes/追憶のロングヘアー(白・桃・緑)_Preview.jpg)
+3. 追憶のロングヘアー(緑)  350pt  [[预览]](../imgs/costumes/追憶のロングヘアー(白・桃・緑)_Preview.jpg)
 
    *追忆的长发（绿）*
 
-4. マーメイドドレス(青)  350pt  [[预览]](imgs/costumes/マーメイドドレス(青・赤・紫・黒)_Preview.jpg)
+4. マーメイドドレス(青)  350pt  [[预览]](../imgs/costumes/マーメイドドレス(青・赤・紫・黒)_Preview.jpg)
 
    *人鱼裙子（蓝）*
 
-5. マーメイドドレス(赤)  350pt  [[预览]](imgs/costumes/マーメイドドレス(青・赤・紫・黒)_Preview.jpg)
+5. マーメイドドレス(赤)  350pt  [[预览]](../imgs/costumes/マーメイドドレス(青・赤・紫・黒)_Preview.jpg)
 
    *人鱼裙子（红）*
 
-6. マーメイドドレス(紫)  350pt  [[预览]](imgs/costumes/マーメイドドレス(青・赤・紫・黒)_Preview.jpg)
+6. マーメイドドレス(紫)  350pt  [[预览]](../imgs/costumes/マーメイドドレス(青・赤・紫・黒)_Preview.jpg)
 
    *人鱼裙子（紫）*
 
-7. マーメイドドレス(黒)  350pt  [[预览]](imgs/costumes/マーメイドドレス(青・赤・紫・黒)_Preview.jpg)
+7. マーメイドドレス(黒)  350pt  [[预览]](../imgs/costumes/マーメイドドレス(青・赤・紫・黒)_Preview.jpg)
 
    *人鱼裙子（黑）*
 
-8. ラウンドトゥパンプス(青)  350pt  [[预览]](imgs/costumes/ラウンドトゥパンプス(青・赤・紫・黒)_Preview.png)
+8. ラウンドトゥパンプス(青)  350pt  [[预览]](../imgs/costumes/ラウンドトゥパンプス(青・赤・紫・黒)_Preview.png)
 
    *圆头浅口鞋（蓝）*
 
-9. ラウンドトゥパンプス(赤)  350pt  [[预览]](imgs/costumes/ラウンドトゥパンプス(青・赤・紫・黒)_Preview.png)
+9. ラウンドトゥパンプス(赤)  350pt  [[预览]](../imgs/costumes/ラウンドトゥパンプス(青・赤・紫・黒)_Preview.png)
 
    *圆头浅口鞋（红）*
 
-10. ラウンドトゥパンプス(紫)  350pt  [[预览]](imgs/costumes/ラウンドトゥパンプス(青・赤・紫・黒)_Preview.png)
+10. ラウンドトゥパンプス(紫)  350pt  [[预览]](../imgs/costumes/ラウンドトゥパンプス(青・赤・紫・黒)_Preview.png)
 
     *圆头浅口鞋（紫）*
 
-11. ラウンドトゥパンプス(黒)  350pt  [[预览]](imgs/costumes/ラウンドトゥパンプス(青・赤・紫・黒)_Preview.png)
+11. ラウンドトゥパンプス(黒)  350pt  [[预览]](../imgs/costumes/ラウンドトゥパンプス(青・赤・紫・黒)_Preview.png)
 
     *圆头浅口鞋（黑）*
 
 12. 追忆的发型组合包  950pt
 
-    包含1~3各1份+「蝶の髪飾り(銀)」（*蝴蝶发饰（银）*） [[预览]](imgs/costumes/蝶の髪飾り(金・銀)_Preview.png)
+    包含1~3各1份+「蝶の髪飾り(銀)」（*蝴蝶发饰（银）*） [[预览]](../imgs/costumes/蝶の髪飾り(金・銀)_Preview.png)
 
     单独购买组合包所包含的单品将会无法购买组合包
 
 13. 祭典组合包  2550pt
 
-    包含4~11各1份+「蝶の髪飾り(金)」（*蝴蝶发饰（金）*） [[预览]](imgs/costumes/蝶の髪飾り(金・銀)_Preview.png)
+    包含4~11各1份+「蝶の髪飾り(金)」（*蝴蝶发饰（金）*） [[预览]](../imgs/costumes/蝶の髪飾り(金・銀)_Preview.png)
 
     单独购买组合包所包含的单品将会无法购买组合包
 
 ### 异色外观
 
-1. ロング(緑)  300pt  [[预览]](imgs/costumes/ロング(緑・焦茶)_Preview.png)
+1. ロング(緑)  300pt  [[预览]](../imgs/costumes/ロング(緑・焦茶)_Preview.png)
 
    *长发（绿）*
 
-2. ロング(焦茶)  300pt  [[预览]](imgs/costumes/ロング(緑・焦茶)_Preview.png)
+2. ロング(焦茶)  300pt  [[预览]](../imgs/costumes/ロング(緑・焦茶)_Preview.png)
 
    *长发（焦茶）*
 
-3. ニューイヤードレス(赤)  300pt  [[预览]](imgs/costumes/ニューイヤードレス(赤・ボルドー)_Preview.jpg)
+3. ニューイヤードレス(赤)  300pt  [[预览]](../imgs/costumes/ニューイヤードレス(赤・ボルドー)_Preview.jpg)
 
    *新年裙子（红）*
 
-4. ニューイヤードレス(ボルドー)  300pt  [[预览]](imgs/costumes/ニューイヤードレス(赤・ボルドー)_Preview.jpg)
+4. ニューイヤードレス(ボルドー)  300pt  [[预览]](../imgs/costumes/ニューイヤードレス(赤・ボルドー)_Preview.jpg)
 
    *新年裙子（酒红）*
 
-5. ニューイヤーシューズ(赤)  300pt  [[预览]](imgs/costumes/ニューイヤーシューズ(赤・黒)_Preview.png)
+5. ニューイヤーシューズ(赤)  300pt  [[预览]](../imgs/costumes/ニューイヤーシューズ(赤・黒)_Preview.png)
 
    *新年鞋子（红）*
 
-6. ニューイヤーシューズ(黒)  300pt  [[预览]](imgs/costumes/ニューイヤーシューズ(赤・黒)_Preview.png)
+6. ニューイヤーシューズ(黒)  300pt  [[预览]](../imgs/costumes/ニューイヤーシューズ(赤・黒)_Preview.png)
 
    *新年鞋子（黑）*
 
@@ -295,15 +295,15 @@
 
 至03/26，银抽限时PICK UP：
 
-- 追憶のロングヘアー(青)  [[预览]](imgs/costumes/追憶のロングヘアー(青・金・茶)_Preview.jpg)
+- 追憶のロングヘアー(青)  [[预览]](../imgs/costumes/追憶のロングヘアー(青・金・茶)_Preview.jpg)
 
   *追忆的长发（蓝）*
 
-- 追憶のロングヘアー(金)  [[预览]](imgs/costumes/追憶のロングヘアー(青・金・茶)_Preview.jpg)
+- 追憶のロングヘアー(金)  [[预览]](../imgs/costumes/追憶のロングヘアー(青・金・茶)_Preview.jpg)
 
   *追忆的长发（金）*
 
-- 追憶のロングヘアー(茶)  [[预览]](imgs/costumes/追憶のロングヘアー(青・金・茶)_Preview.jpg)
+- 追憶のロングヘアー(茶)  [[预览]](../imgs/costumes/追憶のロングヘアー(青・金・茶)_Preview.jpg)
 
   *追忆的长发（茶）*
 
